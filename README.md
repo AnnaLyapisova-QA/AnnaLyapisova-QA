@@ -1,7 +1,7 @@
    
 ## 🧪 Анна Ляписова | QA Manual Engineer 
 
-<img align="right" width="650" height="650" src="https://github.com/user-attachments/assets/330cb8a5-7771-498f-80d0-8a335df0493a" />
+<img align="right" width="350" height="350" src="https://github.com/user-attachments/assets/330cb8a5-7771-498f-80d0-8a335df0493a" />
 
 ### ❓ Почему я в QA?
 * Люблю разбирать системы по кирпичикам
