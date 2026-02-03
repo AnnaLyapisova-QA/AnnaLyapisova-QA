@@ -1,5 +1,5 @@
    
-## 🧪 Анна Ляписова | QA Manual Engineer 
+## Анна Ляписова | QA Manual Engineer 
 
 ### ❓ Почему я в QA?
 * Люблю разбирать системы по кирпичикам
@@ -138,9 +138,9 @@
     <td>Buildin</td>
     <td>Miro</td>
   </tr>
+  </table>
 
 ## Образование
-
 <table class="table" border="0" width="100%">
   <tr align="center">
     <td><img width="300" src="https://raw.githubusercontent.com/AnnaLyapisova-QA/AnnaLyapisova-QA/refs/heads/main/081d79cb6be.png" /></td>
