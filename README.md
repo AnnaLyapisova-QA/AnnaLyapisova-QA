@@ -25,8 +25,8 @@
 ### 🤝 Ищу возможности для развития в команде профессионалов
 
 ### Если в вашей компании есть **подходящая вакансия**, буду рада обсудить детали  
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [annalyapisova@yandex.ru](mailto:annalyapisova@yandex.ru)
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@Anna_Lyapisova](https://t.me/Anna_Lyapisova)
+- <img height="20" width="20" src="https://play-lh.googleusercontent.com/J0xD_ZM-YxIgJoiynYP22PNQGJO7i0XJSODt5eC_RHP0Sp0sxnBEsGphx_OnQU3IJJM"/> [annalyapisova@yandex.ru](mailto:annalyapisova@yandex.ru)
+- <img height="20" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/500px-Telegram_logo.svg.png"/> [@Anna_Lyapisova](https://t.me/Anna_Lyapisova)
 
 ### Тестирование API и интеграций 
 <table class="table" border="0" width="100%">
