@@ -3,7 +3,7 @@
 
 ### ❓ Почему я в QA?
 * Люблю разбирать системы по кирпичикам
-* Ценю чёткость и порядок в документации
+* Не жду идеальной документации — начинаю тестировать сразу, выявляю требования в процессе и фиксирую их для команды
 * Верю, что качество — это про заботу о пользователе
   
 <img align="right" width="470" height="470" src="https://github.com/user-attachments/assets/330cb8a5-7771-498f-80d0-8a335df0493a" />
@@ -143,6 +143,30 @@
 ## Образование
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td><img width="300" src="https://raw.githubusercontent.com/AnnaLyapisova-QA/AnnaLyapisova-QA/refs/heads/main/081d79cb6be.png" /></td>
+    <td><img width="300" src="https://raw.githubusercontent.com/AnnaLyapisova-QA/AnnaLyapisova-QA/refs/heads/main/0c0294eb474%20(2).png" /></td>
+  </tr>
+</table>
+
+## Практика и стажировка
+
+### Джуны. Проект Auto.ae
+<table class="table" border="0" width="100%">
+  <tr>
+    <td align="center"><img width="300"     src="https://raw.githubusercontent.com/AnnaLyapisova-QA/AnnaLyapisova-QA/refs/heads/main/26.png" />  </td>
+    <td align="left"> <b>О проекте: </b></br>
+  - Auto.ae - сервис поиска и размещения объявлений о продаже авто и автомобильных номеров для рынка ОАЭ.</br>
+  - Задача: тестирование нового функционала.</br>
+  - Состав команды: QA-тимлид, тест-менеджер и 7 тестировщиков.</br>
+  - Длительность стажировки: 56 часов.</br>
+  - Результат работы передали тестировщикам из команды Auto.ae.</br>
+   <b>Моя зона ответственности: </b></br>
+  - Провела исследовательское тестирование.</br>
+  - Сформировала чек-лист проверок в Miro.</br>
+  - Выявила 9 багов.</br>
+  - Оформила 7 баг-репортов в таск-трекере Buildin.</br>
+  - Ревьюила баг-репорты других тестировщиков</br>
+  - Участвовала в ежедневных синках с командой</br>
+  - Стек: Buildin, Miro, DevTools, Figma.</br>
+    </td>
   </tr>
 </table>
