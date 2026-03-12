@@ -145,6 +145,9 @@
   <tr align="center">
     <td><img width="300" src="https://raw.githubusercontent.com/AnnaLyapisova-QA/AnnaLyapisova-QA/refs/heads/main/0c0294eb474%20(2).png" /></td>
   </tr>
+    <tr align="center">
+    <td><img width="300" src="https://raw.githubusercontent.com/AnnaLyapisova-QA/AnnaLyapisova-QA/refs/heads/main/%D1%80%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%8F.png" /></td>
+  </tr>
 </table>
 
 ## Практика и стажировка
